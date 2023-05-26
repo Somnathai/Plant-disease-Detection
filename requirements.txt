@@ -1,1 +1,2 @@
-
+datasets are taken from https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+we are now only working on tomato datasets and implement more plants disease detect features will be added soon
