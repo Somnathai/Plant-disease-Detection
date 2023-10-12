@@ -10,6 +10,13 @@ To find out leaf diseases in plants in real-time so that farmers can take necess
 * Performed 10 epochs for better training. 
 * Used TFLite to convert the model to tflite file, for loading into mobile devices.
 
+
+### How it works:
+* Download the zip file.
+* Install the Android Application, it will be named 'LeafMate'.
+* Open the application and take a picture using a mobile
+
+
 ### Some pictures while using the Android application:
 
 
