@@ -12,10 +12,12 @@ To find out leaf diseases in plants in real-time so that farmers can take necess
 
 ### Some pictures while using the android application:
 
-![Screenshot_2023-10-10-14-36-10-42_b8783d6221a16e0e4f81e01ca4609be2.png =100x20](https://github.com/Pratyay008/Plant-disease-Detection/assets/81563083/5eff3a2c-24eb-4553-bbfe-182d0a07ab7c)
+
 
 ![new_reduce](https://github.com/Pratyay008/Plant-disease-Detection/assets/81563083/60a4a331-f483-41c7-9ba2-fa155c302e9a)
 
+![new_reduce](https://github.com/Pratyay008/Plant-disease-Detection/assets/81563083/60a4a331-f483-41c7-9ba2-fa155c302e9a)
+![new_reduce](https://github.com/Pratyay008/Plant-disease-Detection/assets/81563083/60a4a331-f483-41c7-9ba2-fa155c302e9a)
 
 
 ### Note:
