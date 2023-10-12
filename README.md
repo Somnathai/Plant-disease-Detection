@@ -14,7 +14,8 @@ To find out leaf diseases in plants in real-time so that farmers can take necess
 ### How it works:
 * Download the zip file.
 * Install the Android Application, it will be named 'LeafMate'.
-* Open the application and take a picture using a mobile
+* Open the application and take a picture using a mobile.
+* It will show the name of the particular disease with accuracy of our model.
 
 
 ### Some pictures while using the Android application:
