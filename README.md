@@ -10,6 +10,10 @@ To find out leaf diseases in plants in real-time so that farmers can take necess
 * Performed 10 epochs for better training. 
 * Used TFLite to convert the model to tflite file, for loading into mobile devices.
 
+### Some pictures while using the android application:
+![Screenshot_2023-10-10-14-36-10-42_b8783d6221a16e0e4f81e01ca4609be2](https://github.com/Pratyay008/Plant-disease-Detection/assets/81563083/97618b47-5d1a-4704-9e59-ae8290bd0ded)
+
+
 
 ### Note:
 We have not completed this project yet only we can detect tomato leaf disease with this app. We will add more plant diseases and solutions later on. Thanks for Visiting!!
