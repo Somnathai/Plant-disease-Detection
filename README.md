@@ -1,4 +1,4 @@
-# LeafMate(Plant-disease-Detection)
+# LeafMate (Plant-disease-Detection)
 
 
 ## Objective: 
